@@ -2,7 +2,7 @@
   "name": "blog-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chrono234.github.io/blog-react-app/build",
+  "homepage": "https://github.com/chrono234/blog-react-app.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
