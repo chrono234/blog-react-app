@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/blog-react-app.git/build/static/css/main.c960e12a.css",
-    "main.js": "/blog-react-app.git/build/static/js/main.21ab8523.js",
-    "static/js/787.a361b86b.chunk.js": "/blog-react-app.git/build/static/js/787.a361b86b.chunk.js",
-    "index.html": "/blog-react-app.git/build/index.html",
-    "main.c960e12a.css.map": "/blog-react-app.git/build/static/css/main.c960e12a.css.map",
-    "main.21ab8523.js.map": "/blog-react-app.git/build/static/js/main.21ab8523.js.map",
-    "787.a361b86b.chunk.js.map": "/blog-react-app.git/build/static/js/787.a361b86b.chunk.js.map"
+    "main.css": "/my-blog/build/static/css/main.c960e12a.css",
+    "main.js": "/my-blog/build/static/js/main.dbd80e24.js",
+    "static/js/787.a361b86b.chunk.js": "/my-blog/build/static/js/787.a361b86b.chunk.js",
+    "index.html": "/my-blog/build/index.html",
+    "main.c960e12a.css.map": "/my-blog/build/static/css/main.c960e12a.css.map",
+    "main.dbd80e24.js.map": "/my-blog/build/static/js/main.dbd80e24.js.map",
+    "787.a361b86b.chunk.js.map": "/my-blog/build/static/js/787.a361b86b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c960e12a.css",
-    "static/js/main.21ab8523.js"
+    "static/js/main.dbd80e24.js"
   ]
 }
