@@ -14,6 +14,7 @@ function App() {
         <NavBar>My awesome blog</NavBar>
         <div id="page-body">
           <Routes>
+            <Route path="/" element={<HomePage />} />
             <Route path="/blog-react-app" element={<HomePage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/articles" element={<ArticlesListPage />} />
