@@ -1,0 +1,13 @@
+npx create-react-app nombre-de-la-app, para crearla
+
+npm run start para correr la app en el navegador
+
+con ctr + c se cierra la terminal para usarla para otra cosa
+
+install react-router-dom , es para Con React Router Dom, puedes definir rutas en tu aplicación y asociar componentes específicos 
+con esas rutas. Esto significa que puedes crear diferentes vistas o páginas en tu aplicación y mostrarlas según la URL actual.  
+
+¿Que son los props?
+En React, los props (abreviatura de "propiedades") son un mecanismo para pasar datos de un componente padre a un componente hijo. Los props son objetos JavaScript que contienen valores y se utilizan para configurar y personalizar los componentes.
+
+Cuando creas un componente en React, puedes pasarle props como argumentos en su declaración. Estos props pueden ser cualquier tipo de dato, como strings, números, booleanos, objetos o incluso funciones. Los props son inmutables, lo que significa que no se pueden modificar directamente dentro del componente hijo.
